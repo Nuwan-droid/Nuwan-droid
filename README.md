@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuwan-droid" alt="nuwan-droid" /></a> </p>
 
-- 🔭 I’m currently working on **ExploreEase**
+- 🔭 I’m currently working on **Leo  - club -  app**
 
 - 🌱 I’m currently learning **MERN Stack**
 
