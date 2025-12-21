@@ -17,6 +17,7 @@
 **Aspiring Cybersecurity Analyst** based in Sri Lanka, passionate about threat detection, malware analysis, and building robust security infrastructure to protect digital assets.
 
 - 🔒 Currently working on **Building an SSH Honeypot for Threat Intelligence**
+- 💡 Working on research GAN-based data augmentation  in Agricultural IoT (AG-IoT) networks.
 - 🌱 Actively learning **Intrusion Detection Systems, SOAR/EDR, and Advanced Malware Analysis**
 - 🛡️ Focused on **Network Security, Active Directory Security, and Cloud Security**
 - 💡 Open to collaborations on **Security Research and Open-Source Security Tools**
