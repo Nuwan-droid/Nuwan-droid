@@ -1,3 +1,12 @@
+<!-- ===================== CYBER PROFILE HEADER ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=CS+Undergraduate;Aspiring+Cybersecurity+Intern;Offensive+Security;Red+Team+Learning" />
+</p>
+
+
+
+
 <!--START_SECTION:TITLE-->
 # <p align = center>Hi , I'm Charitha Jayasinghe&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "Nuwan-droid" width="35"></p>
 <!--END_SECTION:TITLE-->
@@ -12,6 +21,10 @@
 
 </div>
 
+<!-- ===================== ABOUT ME ===================== -->
+
+<hr style="border:1px solid #30363d"/>
+
 ## 🎯 About Me
 
 **Aspiring Cybersecurity Analyst** based in Sri Lanka, passionate about threat detection, malware analysis, and building robust security infrastructure to protect digital assets.
@@ -24,20 +37,32 @@
 - 💬 Ask me about **Cybersecurity, Python, JavaScript, and Security Operations**
 - 📧 Reach me at: **charithanuwan26@gmail.com**
 
----
+> 🔬 **Research Interests**  
+> Threat Intelligence • Honeypots • Malware Behavior • AG-IoT Security • Blue Team Automation
+
+<!-- ===================== FEATURED PROJECT ===================== -->
+
+<hr style="border:1px solid #30363d"/>
 
 ## 🚀 Featured Project
 
-### 🍯 Building a Honeypot | Python, Docker, Ubuntu Server, Networking
+<div style="border-left:4px solid #00ffaa; padding-left:15px;">
+
+### 🍯 Building a Honeypot | Python, Docker, Ubuntu Server, Networking  
 **November 2025**
 
 - 🐳 Deployed an SSH honeypot using Docker containers to capture and log unauthorized access attempts in isolated environment
 - 📊 Configured network monitoring and logging systems to analyze attacker behavior patterns and common exploitation techniques
 - 🔍 Documented attack vectors, IP addresses, and payloads for threat intelligence gathering and security research
 
----
+</div>
 
-## 🛠️ Technical Skills
+<!-- ===================== TECHNICAL SKILLS ===================== -->
+
+<hr style="border:1px solid #30363d"/>
+
+<details open>
+<summary><strong>🛠️ Technical Arsenal</strong></summary>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,34 +111,42 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+</details>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<hr style="border:1px solid #30363d"/>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=nuwan-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwan-droid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nuwan-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuwan-droid&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuwan-droid&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nuwan-droid&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<!-- ===================== TROPHIES ===================== -->
+
+<hr style="border:1px solid #30363d"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=nuwan-droid&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=nuwan-droid&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
----
+<!-- ===================== CONNECT ===================== -->
+
+<hr style="border:1px solid #30363d"/>
 
 ## 🤝 Connect With Me
 
@@ -126,7 +159,9 @@
 
 </div>
 
----
+<!-- ===================== FOOTER ===================== -->
+
+<hr style="border:1px solid #30363d"/>
 
 <div align="center">
   
